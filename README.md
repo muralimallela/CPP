@@ -1,7 +1,7 @@
 # HI
 
 
-## this is for testng.
+## this is for testing.
 
 
 watch out now.
